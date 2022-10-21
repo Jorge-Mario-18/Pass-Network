@@ -8,4 +8,6 @@ of the 2010 UEFA Champions League.
 
 I used mplsoccer, matplot, pandas, numpy, and requests libaries to build this visualization. 
 
+A special thanks to Irfan Alghani Khalid, John Mckay, and "Cia Football" for helping with writing the code! 
+
 Let me know what you think! 
